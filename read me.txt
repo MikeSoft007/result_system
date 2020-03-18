@@ -1,0 +1,23 @@
+
+Database Configuration
+
+Open phpmyadmin
+Create Database�srms
+Import database srms.sql (available inside zip package)
+
+For User
+
+Open Your browser put inside browser �http://localhost/srms�
+Details of student �--
+
+
+Student name-- Anuj Kumar�
+
+
+Roll id--10861
+Student Class: Fourth(C)
+
+For Admin Panel
+
+Open Your browser put inside browser �http://localhost/srms�
+Login Details for admin :�admin/Test@123
